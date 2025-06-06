@@ -1,13 +1,13 @@
 import PropTypes from 'prop-types'
-      import { motion, AnimatePresence } from 'framer-motion'
-      import Icon from '@/components/atoms/Icon'
-      import Title from '@/components/atoms/Title'
-      import Text from '@/components/atoms/Text'
-      
-      const UploadProgressModal = ({ uploading, uploadProgress }) => {
-        if (!uploading || Object.keys(uploadProgress).length === 0) return null
-      
-        return (
+import { motion, AnimatePresence } from 'framer-motion'
+import Icon from '@/components/atoms/Icon'
+import Title from '@/components/atoms/Title'
+import Text from '@/components/atoms/Text'
+
+const UploadProgressModal = ({ uploading, uploadProgress }) => {
+  if (!uploading || Object.keys(uploadProgress).length === 0) return null
+
+  return (
           <AnimatePresence>
             {uploading && Object.keys(uploadProgress).length > 0 && (
               <motion.div
