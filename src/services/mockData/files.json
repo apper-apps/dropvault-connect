@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1",
+    "name": "Project_Presentation.pdf",
+    "size": 2485760,
+    "type": "application/pdf",
+    "uploadDate": "2024-01-15T10:30:00Z",
+    "url": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=400",
+    "thumbnailUrl": null,
+    "shareLink": "https://dropvault.com/share/abc123"
+  },
+  {
+    "id": "2",
+    "name": "team_photo.jpg",
+    "size": 1843200,
+    "type": "image/jpeg",
+    "uploadDate": "2024-01-14T15:45:00Z",
+    "url": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400",
+    "shareLink": "https://dropvault.com/share/def456"
+  },
+  {
+    "id": "3",
+    "name": "budget_report.xlsx",
+    "size": 512000,
+    "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "uploadDate": "2024-01-13T09:20:00Z",
+    "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400",
+    "thumbnailUrl": null,
+    "shareLink": "https://dropvault.com/share/ghi789"
+  },
+  {
+    "id": "4",
+    "name": "vacation_sunset.png",
+    "size": 3276800,
+    "type": "image/png",
+    "uploadDate": "2024-01-12T18:30:00Z",
+    "url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400",
+    "shareLink": "https://dropvault.com/share/jkl012"
+  },
+  {
+    "id": "5",
+    "name": "meeting_recording.mp4",
+    "size": 15728640,
+    "type": "video/mp4",
+    "uploadDate": "2024-01-11T14:15:00Z",
+    "url": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=400",
+    "thumbnailUrl": null,
+    "shareLink": "https://dropvault.com/share/mno345"
+  },
+  {
+    "id": "6",
+    "name": "design_mockup.fig",
+    "size": 1048576,
+    "type": "application/octet-stream",
+    "uploadDate": "2024-01-10T11:00:00Z",
+    "url": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=400",
+    "thumbnailUrl": null,
+    "shareLink": "https://dropvault.com/share/pqr678"
+  },
+  {
+    "id": "7",
+    "name": "conference_notes.docx",
+    "size": 204800,
+    "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "uploadDate": "2024-01-09T16:45:00Z",
+    "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+    "thumbnailUrl": null,
+    "shareLink": "https://dropvault.com/share/stu901"
+  },
+  {
+    "id": "8",
+    "name": "product_demo.mov",
+    "size": 8388608,
+    "type": "video/quicktime",
+    "uploadDate": "2024-01-08T13:20:00Z",
+    "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400",
+    "thumbnailUrl": null,
+    "shareLink": "https://dropvault.com/share/vwx234"
+  },
+  {
+    "id": "9",
+    "name": "logo_concepts.zip",
+    "size": 4194304,
+    "type": "application/zip",
+    "uploadDate": "2024-01-07T10:10:00Z",
+    "url": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=400",
+    "thumbnailUrl": null,
+    "shareLink": "https://dropvault.com/share/yzab567"
+  },
+  {
+    "id": "10",
+    "name": "cityscape_night.jpg",
+    "size": 2097152,
+    "type": "image/jpeg",
+    "uploadDate": "2024-01-06T20:30:00Z",
+    "url": "https://images.unsplash.com/photo-1514565131-fce0801e5785?w=400",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1514565131-fce0801e5785?w=400",
+    "shareLink": "https://dropvault.com/share/cdef890"
+  },
+  {
+    "id": "11",
+    "name": "financial_summary.pdf",
+    "size": 1572864,
+    "type": "application/pdf",
+    "uploadDate": "2024-01-05T08:45:00Z",
+    "url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400",
+    "thumbnailUrl": null,
+    "shareLink": "https://dropvault.com/share/ghij123"
+  },
+  {
+    "id": "12",
+    "name": "forest_landscape.png",
+    "size": 5242880,
+    "type": "image/png",
+    "uploadDate": "2024-01-04T12:00:00Z",
+    "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=400",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=400",
+    "shareLink": "https://dropvault.com/share/klmn456"
+  },
+  {
+    "id": "13",
+    "name": "client_proposal.pptx",
+    "size": 3145728,
+    "type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "uploadDate": "2024-01-03T14:30:00Z",
+    "url": "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?w=400",
+    "thumbnailUrl": null,
+    "shareLink": "https://dropvault.com/share/opqr789"
+  }
+]
